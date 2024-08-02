@@ -1,0 +1,12 @@
+
+POST http://localhost:3000/player/
+Content-Type: application/json
+
+{
+    "username":"praveen",
+    "password" :1234444
+}
+
+
+### 
+POST http://localhost:3000/login/
